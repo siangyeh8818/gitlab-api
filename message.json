@@ -1,0 +1,11 @@
+{
+  "companyID": "1234",
+  "publisherName": "podname",
+  "publisherTimestap": 2018-04-13,
+  "executeModule": "installer1",
+  "executeAction": "install",
+  "excuteArgs": [
+    "timeoutSetting": false,
+    "timeout": 40000
+  ]
+}
